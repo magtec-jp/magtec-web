@@ -1296,4 +1296,16 @@ form label {
   opacity: 0;
 }
 
+.padding20 {
+  border-collapse: separate;
+  border-spacing: 20px;
+}
+
+th.shogen {
+  background: #7ED321;
+  border-collapse: separate;
+  padding: 10px;
+  color: #fff;
+}
+
 /*# sourceMappingURL=style.css.map */
